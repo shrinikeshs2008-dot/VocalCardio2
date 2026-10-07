@@ -1,0 +1,3 @@
+pip install streamlit scipy numpy scikit-learn
+streamlit
+scipy
